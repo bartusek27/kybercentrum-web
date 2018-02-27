@@ -1,2 +1,2 @@
-# kybercentrum-web
-Webová aplikace českého kybercentra - WIP
+# České Kybercentrum
+Tato stránka je zatím v přípavě.
